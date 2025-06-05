@@ -55,25 +55,34 @@ iXmanager puts the power of smart device control in your hands, right from your 
 - Implemented responsive design for mobile and tablet compatibility
 - Optimized performance and smooth interactions throughout the app
 
-🔗 [App Store](http://apps.apple.com/cz/app/ixmanager/id1456231465) | [Play Store](https://play.google.com/store/search?q=ixmanager&c=apps&hl=en)
+<div align="left">
+
+🔗 <a href="http://apps.apple.com/cz/app/ixmanager/id1456231465">App Store</a> | <a href="https://play.google.com/store/search?q=ixmanager&c=apps&hl=en">Play Store</a>
+
+</div>
 
 ### Asia Car Rider
 
+<div align="left">
+
 Developed and launched a cross-platform mobile app using React Native for Asia Car Service, enabling seamless ride bookings across the Asia Pacific region. Key features include one-time pick-up, hourly and full-day car hire, and airport meet & assist service. Implemented real-time booking, user trip history, travel preference saving, and frequent destination storage. Designed for both personal and corporate users, the app streamlines the booking process with a clean UI and responsive UX.
+
+</div>
 
 **Role**: Mobile Developer  
 **Tech Stack**: React Native, GraphQL APIs  
 **Highlights:**
 
 - Developed features like trip history, saved preferences, and frequent destinations
-
 - Designed a responsive and user-friendly interface for both iOS and Android
-
 - Integrated multi-service options: pick-up, hourly, full-day hire, and airport assistance
-
 - Optimized the app for performance and scalability
 
-🔗 [App Store](https://apps.apple.com/fi/app/asia-car-rider/id1395827754) | [Play Store](https://play.google.com/store/apps/details?id=asiacarservice.rider&hl=en)
+<div align="left">
+
+🔗 <a href="https://apps.apple.com/fi/app/asia-car-rider/id1395827754">App Store</a> | <a href="https://play.google.com/store/apps/details?id=asiacarservice.rider&hl=en">Play Store</a>
+
+</div>
 
 ### 📫 Let's Connect
 
