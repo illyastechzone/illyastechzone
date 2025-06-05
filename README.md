@@ -7,11 +7,13 @@
 
 ### 📝 Professional Summary
 
-Innovative and results-driven mobile app developer with 5+ years of experience architecting, building, and optimizing high-impact applications using React Native. Adept at leading end-to-end development for large-scale eCommerce platforms, delivering seamless, intuitive, and robust user experiences. Committed to clean architecture, performance optimization, and cross-platform excellence that aligns with business objectives and user needs.
+Innovative and results-driven mobile app developer with 5+ years of experience architecting, building, and optimizing high-impact applications using React Native.  
+Adept at leading end-to-end development for large-scale eCommerce platforms, delivering seamless, intuitive, and robust user experiences.  
+Committed to clean architecture, performance optimization, and cross-platform excellence that aligns with business objectives and user needs.
 
 ### 🛠 Technical Expertise
 
-- **Mobile Development**: React Native, Expo, JavaCcript, TypeScript, Swift (basic), Kotlin (basic), Java (basic), Objective-C (basic)
+- **Mobile Development**: React Native, Expo, JavaScript, TypeScript, Swift (basic), Kotlin (basic), Java (basic), Objective-C (basic)
 - **Web**: React, HTML, CSS
 - **Backend & APIs**: Firebase, Supabase, Node.js, Express, NestJS
 - **DevOps & Tools**: Git, CI/CD, Codemagic, App Center, App Store & Play Store Deployment
