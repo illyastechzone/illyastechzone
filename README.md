@@ -2,17 +2,16 @@
 
 ## Senior Mobile App Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammed-illyas)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:muhammedillyas.c@gmail.com)
 
 ### 🎯 Professional Summary
 
-Experienced mobile app developer with 5+ years of expertise in building cross-platform and native mobile applications. Specialized in React Native, Android (Java/Kotlin), and iOS (Swift/Objective-C) development, with a strong focus on creating scalable, performant, and user-friendly mobile solutions.
+Experienced mobile app developer with over 5 years of expertise in building scalable, high-performance applications using React Native. Successfully led the development and enhancement of a major eCommerce app, delivering intuitive and reliable user experiences. Passionate about clean architecture, efficient performance, and crafting cross-platform solutions that align with business goals and user needs.
 
 ### 🛠️ Technical Expertise
 
-- **Mobile Development**: React Native, Flutter, Swift, Kotlin
+- **Mobile Development**: React Native, Expo, Swift(basic), Kotlin(basic), Java (basic), Objective-C(basic)
 - **Backend & APIs**: Firebase, Supabase, Node.js, Express
 - **DevOps & Tools**: Git, CI/CD, App Store & Play Store Deployment
 - **UI/UX**: Mobile-first design, Material Design, Human Interface Guidelines
@@ -59,5 +58,3 @@ Experienced mobile app developer with 5+ years of expertise in building cross-pl
 - **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 
 ---
-
-_Available for freelance projects and full-time opportunities_
