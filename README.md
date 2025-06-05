@@ -37,8 +37,14 @@ Innovative and results-driven mobile app developer with 5+ years of experience a
 The go-to inventory management app for furniture salespersons. With Hexa, effortlessly track furniture inventory, manage orders, and showcase your catalog in one intuitive platform. Real-time updates, customizable reports, and a user-friendly interface ensure smooth operations. Experience efficiency with Hexa.
 
 **Role**: Senior Mobile Developer  
-**Tech Stack**: React Native, REST APIs, GraphQL APIs  
+**Tech Stack**: React Native, REST APIs, GraphQL APIs, NestJS, MongoDB
 **Highlights**:
+
+- Designed the overall app architecture, focusing on scalability, modularity, and clean code structure
+- Led frontend development, managing UI implementation, responsiveness, and performance optimization
+- Implemented backend services, including API development, database design, and integration
+- Set up and integrated state management and APIs, enabling real-time inventory tracking and order handling
+- Ensured production readiness, with thorough testing, robust error handling, and mobile optimization
 
 🛒 [App Store](https://apps.apple.com/us/app/hexa-by-danubehome/id6499588845) | [Play Store](https://play.google.com/store/apps/details?id=com.danubehome.bounce&hl=en)
 
