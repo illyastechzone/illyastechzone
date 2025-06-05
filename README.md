@@ -21,7 +21,7 @@ Innovative and results-driven mobile app developer with 5+ years of experience a
 #### Danube Home
 
 **Role**: Senior Mobile Developer  
-**Tech Stack**: React Native, REST APIs, GraphQL APIs
+**Tech Stack**: React Native, REST APIs, GraphQL APIs  
 **Highlights:**
 
 - Led end-to-end development of a high-traffic, cross-platform eCommerce app serving thousands of users across multiple countries
@@ -41,7 +41,7 @@ Innovative and results-driven mobile app developer with 5+ years of experience a
 The go-to inventory management app for furniture salespersons. With Hexa, effortlessly track furniture inventory, manage orders, and showcase your catalog in one intuitive platform. Real-time updates, customizable reports, and a user-friendly interface ensure smooth operations. Experience efficiency with Hexa.
 
 **Role**: Senior Mobile Developer  
-**Tech Stack**: React Native, REST APIs, GraphQL APIs
+**Tech Stack**: React Native, REST APIs, GraphQL APIs  
 **Highlights:**
 
 🔗 [App Store](https://apps.apple.com/us/app/hexa-by-danubehome/id6499588845) | [Play Store](https://play.google.com/store/apps/details?id=com.danubehome.bounce&hl=en)
@@ -49,7 +49,7 @@ The go-to inventory management app for furniture salespersons. With Hexa, effort
 #### iXmanager
 
 **Role**: Mobile Developer  
-**Tech Stack**: React Native, GraphQL APIs
+**Tech Stack**: React Native, GraphQL APIs  
 **Highlights:**
 
 -
@@ -60,7 +60,7 @@ The go-to inventory management app for furniture salespersons. With Hexa, effort
 ### Asia Car Rider
 
 **Role**: Mobile Developer  
-**Tech Stack**: React Native, GraphQL APIs
+**Tech Stack**: React Native, GraphQL APIs  
 **Highlights:**
 
 🔗 [App Store](https://apps.apple.com/fi/app/asia-car-rider/id1395827754) | [Play Store](https://play.google.com/store/apps/details?id=asiacarservice.rider&hl=en)
