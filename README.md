@@ -11,7 +11,7 @@ Innovative and results-driven mobile app developer with 5+ years of experience a
 
 ### 🛠 Technical Expertise
 
-- **Mobile Development**: React Native, Expo, Swift (basic), Kotlin (basic), Java (basic), Objective-C (basic)
+- **Mobile Development**: React Native, Expo, JavaCcript, TypeScript, Swift (basic), Kotlin (basic), Java (basic), Objective-C (basic)
 - **Web**: React, HTML, CSS
 - **Backend & APIs**: Firebase, Supabase, Node.js, Express, NestJS
 - **DevOps & Tools**: Git, CI/CD, Codemagic, App Center, App Store & Play Store Deployment
