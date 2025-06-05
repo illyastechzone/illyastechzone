@@ -24,24 +24,46 @@ Innovative and results-driven mobile app developer with 5+ years of experience a
 **Tech Stack**: React Native, REST APIs, GraphQL APIs
 **Highlights:**
 
-- Spearheaded the development of a cross-platform eCommerce app serving thousands of daily users
-- Engineered a real-time inventory management system for seamless stock updates
-- Integrated secure payment gateways and robust user authentication
-- Drove the app to a 4.5+ star rating on the Play Store through continuous improvement and user feedback
+- Led end-to-end development of a high-traffic, cross-platform eCommerce app serving thousands of users across multiple countries
 
-🔗 [Play Store](https://play.google.com/store/apps/details?id=...) | [App Store](https://play.google.com/store/apps/details?id=...)
+- Built and maintained secure authentication, integrated region-specific payment gateways, and optimized performance at scale
 
-#### Hexa
+- Managed full release cycle including App Store and Play Store deployment, ensuring timely updates and high stability
 
-**Role**: Lead Mobile Developer  
-**Tech Stack**: Swift, Firebase, REST APIs  
+- Collaborated with cross-functional teams to deliver a fast, intuitive, and user-friendly mobile experience
+
+- Drove continuous improvements through analytics and user feedback, maintaining a 4.5+ star rating on both the App Store and Play Store
+
+🔗 [App Store](https://apps.apple.com/ae/app/danube-home/id1546580004) | [Play Store](https://play.google.com/store/apps/details?id=com.app.danubehomeonline&hl=en)
+
+#### Hexa By DanubeHome
+
+The go-to inventory management app for furniture salespersons. With Hexa, effortlessly track furniture inventory, manage orders, and showcase your catalog in one intuitive platform. Real-time updates, customizable reports, and a user-friendly interface ensure smooth operations. Experience efficiency with Hexa.
+
+**Role**: Senior Mobile Developer  
+**Tech Stack**: React Native, REST APIs, GraphQL APIs
 **Highlights:**
 
-- Built a real-time data synchronization engine for instant updates across devices
-- Designed an offline-first architecture ensuring uninterrupted user experience
-- Implemented a scalable push notification system and advanced analytics integration
+🔗 [App Store](https://apps.apple.com/us/app/hexa-by-danubehome/id6499588845) | [Play Store](https://play.google.com/store/apps/details?id=com.danubehome.bounce&hl=en)
 
-🔗 [App Store](https://apps.apple.com/us/app/...) | [GitHub](https://github.com/yourusername/app-repo)
+#### iXmanager
+
+**Role**: Mobile Developer  
+**Tech Stack**: React Native, GraphQL APIs
+**Highlights:**
+
+-
+-
+
+🔗 [App Store](http://apps.apple.com/cz/app/ixmanager/id1456231465) | [Play Store](https://play.google.com/store/search?q=ixmanager&c=apps&hl=en)
+
+### Asia Car Rider
+
+**Role**: Mobile Developer  
+**Tech Stack**: React Native, GraphQL APIs
+**Highlights:**
+
+🔗 [App Store](https://apps.apple.com/fi/app/asia-car-rider/id1395827754) | [Play Store](https://play.google.com/store/apps/details?id=asiacarservice.rider&hl=en)
 
 ### 📫 Let's Connect
 
