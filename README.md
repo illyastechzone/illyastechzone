@@ -5,24 +5,24 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammed-illyas)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:muhammedillyas.c@gmail.com)
 
-### 🎯 Professional Summary
+### 📝 Professional Summary
 
 Innovative and results-driven mobile app developer with 5+ years of experience architecting, building, and optimizing high-impact applications using React Native. Adept at leading end-to-end development for large-scale eCommerce platforms, delivering seamless, intuitive, and robust user experiences. Committed to clean architecture, performance optimization, and cross-platform excellence that aligns with business objectives and user needs.
 
-### 🛠️ Technical Expertise
+### 🛠 Technical Expertise
 
 - **Mobile Development**: React Native, Expo, Swift (basic), Kotlin (basic), Java (basic), Objective-C (basic)
 - **Web**: React, HTML, CSS
 - **Backend & APIs**: Firebase, Supabase, Node.js, Express, NestJS
 - **DevOps & Tools**: Git, CI/CD, Codemagic, App Center, App Store & Play Store Deployment
 
-### 📱 Featured Projects
+### 🌟 Featured Projects
 
 #### Danube Home
 
 **Role**: Senior Mobile Developer  
 **Tech Stack**: React Native, REST APIs, GraphQL APIs  
-**Highlights:**
+**Highlights**:
 
 - Led end-to-end development of a high-traffic, cross-platform eCommerce app serving thousands of users across multiple countries
 - Built and maintained secure authentication, integrated region-specific payment gateways, and optimized performance at scale
@@ -30,7 +30,7 @@ Innovative and results-driven mobile app developer with 5+ years of experience a
 - Collaborated with cross-functional teams to deliver a fast, intuitive, and user-friendly mobile experience
 - Drove continuous improvements through analytics and user feedback, maintaining a 4.5+ star rating on both the App Store and Play Store
 
-🔗 [App Store](https://apps.apple.com/ae/app/danube-home/id1546580004) | [Play Store](https://play.google.com/store/apps/details?id=com.app.danubehomeonline&hl=en)
+🛒 [App Store](https://apps.apple.com/ae/app/danube-home/id1546580004) | [Play Store](https://play.google.com/store/apps/details?id=com.app.danubehomeonline&hl=en)
 
 #### Hexa By DanubeHome
 
@@ -38,17 +38,17 @@ The go-to inventory management app for furniture salespersons. With Hexa, effort
 
 **Role**: Senior Mobile Developer  
 **Tech Stack**: React Native, REST APIs, GraphQL APIs  
-**Highlights:**
+**Highlights**:
 
-🔗 [App Store](https://apps.apple.com/us/app/hexa-by-danubehome/id6499588845) | [Play Store](https://play.google.com/store/apps/details?id=com.danubehome.bounce&hl=en)
+🛒 [App Store](https://apps.apple.com/us/app/hexa-by-danubehome/id6499588845) | [Play Store](https://play.google.com/store/apps/details?id=com.danubehome.bounce&hl=en)
 
-#### iXmanager
+### iXmanager
 
 iXmanager puts the power of smart device control in your hands, right from your phone or tablet. Supporting a wide range of smart systems, it offers real-time control, detailed history with insightful charts, easy access sharing with family and friends, and instant error notifications—giving you complete peace of mind and effortless control over your connected world.
 
 **Role**: Mobile Developer  
 **Tech Stack**: React Native, GraphQL APIs  
-**Highlights:**
+**Highlights**:
 
 - Complete UI revamp for a modern and intuitive design
 - Improved user experience across all screens
@@ -57,21 +57,17 @@ iXmanager puts the power of smart device control in your hands, right from your 
 
 <div align="left">
 
-🔗 <a href="http://apps.apple.com/cz/app/ixmanager/id1456231465">App Store</a> | <a href="https://play.google.com/store/search?q=ixmanager&c=apps&hl=en">Play Store</a>
+🛒 <a href="http://apps.apple.com/cz/app/ixmanager/id1456231465">App Store</a> | <a href="https://play.google.com/store/search?q=ixmanager&c=apps&hl=en">Play Store</a>
 
 </div>
 
 ### Asia Car Rider
 
-<div align="left">
-
 Developed and launched a cross-platform mobile app using React Native for Asia Car Service, enabling seamless ride bookings across the Asia Pacific region. Key features include one-time pick-up, hourly and full-day car hire, and airport meet & assist service. Implemented real-time booking, user trip history, travel preference saving, and frequent destination storage. Designed for both personal and corporate users, the app streamlines the booking process with a clean UI and responsive UX.
-
-</div>
 
 **Role**: Mobile Developer  
 **Tech Stack**: React Native, GraphQL APIs  
-**Highlights:**
+**Highlights**:
 
 - Developed features like trip history, saved preferences, and frequent destinations
 - Designed a responsive and user-friendly interface for both iOS and Android
@@ -80,7 +76,7 @@ Developed and launched a cross-platform mobile app using React Native for Asia C
 
 <div align="left">
 
-🔗 <a href="https://apps.apple.com/fi/app/asia-car-rider/id1395827754">App Store</a> | <a href="https://play.google.com/store/apps/details?id=asiacarservice.rider&hl=en">Play Store</a>
+🛒 <a href="https://apps.apple.com/fi/app/asia-car-rider/id1395827754">App Store</a> | <a href="https://play.google.com/store/apps/details?id=asiacarservice.rider&hl=en">Play Store</a>
 
 </div>
 
@@ -88,5 +84,3 @@ Developed and launched a cross-platform mobile app using React Native for Asia C
 
 - **Email**: [muhammedillyas.c@gmail.com](mailto:muhammedillyas.c@gmail.com)
 - **LinkedIn**: [linkedin.com/in/muhammed-illyas](https://www.linkedin.com/in/muhammed-illyas)
-
----
